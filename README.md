@@ -1,1 +1,1 @@
-This project forecasts Electric Vehicle (EV) adoption using historical data and time series models like ARIMA and Prophet. It includes data preprocessing, analysis, and visualization to predict future EV sales trends and support data-driven decision-making.
+ 
